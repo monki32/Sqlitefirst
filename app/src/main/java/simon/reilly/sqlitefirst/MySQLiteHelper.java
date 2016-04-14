@@ -9,6 +9,7 @@ import android.util.Log;
  * Created by Simon on 06/04/2016.
  */
 public class MySQLiteHelper extends SQLiteOpenHelper {
+    // THis is a minor change.
 
     public static final String TABLE_COMMENTS = "comments";
     public static final String COLUMN_ID = "_id";
